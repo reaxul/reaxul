@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Reazul Alavhi
 #### I am a professional web developer
-![I am a professional web developer](https://i.ibb.co/W3Z8Vs1/Red-Modern-Programming-You-Tube-Thumbnail.png)
+![I am a professional web developer]([https://i.ibb.co/W3Z8Vs1/Red-Modern-Programming-You-Tube-Thumbnail.png](https://media.licdn.com/dms/image/D4D16AQF_zBjqYhKTOg/profile-displaybackgroundimage-shrink_350_1400/0/1696025345720?e=1701302400&v=beta&t=YhvmW8l8cTDEpADVMMmkqklhBHuVz6bAl-wbw4BBfKQ))
 
 Passionate web developer specializing in MERN stack development. Experienced in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. Dedicated to creating user-friendly and visually appealing web applications. Strong problem-solving skills and attention to detail. Continuous learner staying up to date with the latest technologies. Open to new opportunities and collaborations..
 
