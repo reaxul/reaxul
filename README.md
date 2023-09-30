@@ -7,7 +7,7 @@ Passionate web developer specializing in MERN stack development. Experienced in 
 Skills: REACT / JS / HTML / CSS/ NEXT JS
 
 - 🔭 I’m currently working on YouTube 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning NextJs 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web development 
 
