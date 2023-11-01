@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Reazul Alavhi
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DEF2F7&random=false&width=435&lines=I+am+a+professional+Web+Developer;I+am+a+Full+Stack+Developer;I+am+a+MERN+stack+developer" alt="Typing SVG" /></a>
-![I am a professional web developer](https://i.ibb.co/cx0sr15/Purple-Minimalist-App-Developer-New-Linked-In-Banner-1.png)
+![I am a professional web developer](https://i.ibb.co/vCNY9QH/Purple-Minimalist-App-Developer-New-Linked-In-Banner-2.png)
 
 Passionate web developer specializing in MERN stack development. Experienced in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. Dedicated to creating user-friendly and visually appealing web applications. Strong problem-solving skills and attention to detail. Continuous learner staying up to date with the latest technologies. Open to new opportunities and collaborations..
 
