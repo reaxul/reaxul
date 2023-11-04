@@ -28,15 +28,16 @@
 </div>
 
 ###
-Passionate web developer specializing in MERN stack development. Experienced in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. Dedicated to creating user-friendly and visually appealing web applications. Strong problem-solving skills and attention to detail. Continuous learner staying up to date with the latest technologies. Open to new opportunities and collaborations..
+Passionate web developer specializing in MERN stack development. Experienced in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. Dedicated to creating user-friendly and visually appealing web applications. Strong problem-solving skills and attention to detail. Continuous learner staying up to date with the latest technologies. Open to new opportunities and collaborations.
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reaxul&label=Profile%20views&color=0e75b6&style=flat" alt="reaxul profile view" /> </p>
 
-Skills: REACT / JS / HTML / CSS/ NEXT JS
+Skills: REACT / JS / TS / HTML / CSS/ NEXT JS
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning NextJs 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web development 
-
 
 <h3 align="left">🔥   My Stats :</h3>
 
