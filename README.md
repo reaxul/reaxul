@@ -32,11 +32,11 @@ Passionate web developer specializing in MERN stack development. Experienced in 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reaxul&label=Profile%20views&color=0e75b6&style=flat" alt="reaxul profile view" /> </p>
 
-Skills: REACT / JS / TS / HTML / CSS/ NEXT JS
+Skills: REACT / JS / TS / HTML / CSS/ NEXT JS/ NODE/ NO SQL/ 
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning NextJs 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web development 
 
 <h3 align="left">🔥   My Stats :</h3>
