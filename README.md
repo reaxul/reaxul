@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/Reaxul.Alavhi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/your_reaxul/" target="_blank">
+  <a href="https://www.instagram.com/reazul.alavhi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/ReaxulThoughts" target="_blank">
@@ -22,7 +22,7 @@
   <a href="https://wa.me/8801747618322" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.youtube.com/@your_reaxul" target="_blank">
+  <a href="https://www.youtube.com/@ReazulAlavhi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
